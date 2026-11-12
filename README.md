@@ -36,7 +36,7 @@ In fast-growing organizations, sales and operations teams often struggle with sc
 * **Backend:** Node.js, Express.js (REST API)
 * **Database:** MongoDB (Local MongoDB / MongoDB Atlas), Mongoose ODM
 * **Authentication & Security:** JSON Web Tokens (JWT) & `bcryptjs` password hashing, role-based middleware (`protect`, `requireAdmin`)
-* **Deployment & Tooling:** Concurrently, Vercel Serverless (`vercel.json` + `api/`), `mongosh`
+
 
 ---
 
