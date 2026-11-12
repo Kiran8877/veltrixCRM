@@ -23,7 +23,6 @@ In fast-growing organizations, sales and operations teams often struggle with sc
 * **Direct WhatsApp Integration:** Launch direct WhatsApp conversations (`wa.me`) straight from customer contact rows and detail modals.
 
 ### 3. Platform Capabilities & Database
-* **Veltrix AI Assistant:** Built-in AI chat widget (`AIChatWidget`) powered by `/api/ai/chat` (supports optional `GEMINI_API_KEY` integration).
 * **Multilingual Interface:** Instant language switching across **English (`en`)**, **Telugu (`te`)**, **Hindi (`hi`)**, and **Punjabi (`pa`)**.
 * **OTP Password Recovery:** Forgot-password workflow with OTP generation, verification, and password reset.
 * **MongoDB Persistence & Seeding:** Structured Mongoose schemas across 6 collections (`users`, `customers`, `tasks`, `activitylogs`, `notifications`, `contactmessages`) with a one-command database seeder (`npm run seed`).
